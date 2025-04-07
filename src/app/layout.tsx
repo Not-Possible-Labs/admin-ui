@@ -19,8 +19,8 @@ export const metadata: Metadata = {
    title: "ChessBet Admin | Manage Players and Games",
   description: "The ChessBet Admin Dashboard for monitoring live games, managing users, handling reports, and ensuring fair play through advanced cheat detection review tools.",
   openGraph: {
-    title: "ChessBet | Play. Wager. Win.",
-    description: "The first peer-to-peer chess betting platform with real-time matchmaking, live wagers, and advanced cheat detection technology.",
+    title: "ChessBet Admin | Manage Players and Games",
+    description: "The ChessBet Admin Dashboard for monitoring live games, managing users, handling reports, and ensuring fair play through advanced cheat detection review tools.",
     url: process.env.HOST,
     siteName: "ChessBet",
     images: [
@@ -35,8 +35,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "ChessBet | Play. Wager. Win.",
-    description: "The first peer-to-peer chess betting platform with real-time wagering and cheat detection.",
+    title: "ChessBet Admin | Manage Players and Games",
+    description: "The ChessBet Admin Dashboard for monitoring live games, managing users, handling reports, and ensuring fair play through advanced cheat detection review tools.",
     images: ["https://images.pexels.com/photos/5477776/pexels-photo-5477776.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"],
   },
 };
