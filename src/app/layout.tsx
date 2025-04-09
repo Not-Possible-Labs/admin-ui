@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     siteName: "ChessBet",
     images: [
       {
-        url: "https://images.pexels.com/photos/5477776/pexels-photo-5477776.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2", // Public URL to your image
+        url: "https://cdn.dribbble.com/userupload/4050238/file/original-0c32e6ed53d1093b822f4743c85fec00.jpg?resize=1600x1200&vertical=center", // Public URL to your image
         width: 1200,
         height: 630,
         alt: "ChessBet - Play. Wager. Win.",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "ChessBet Admin | Manage Players and Games",
     description: "The ChessBet Admin Dashboard for monitoring live games, managing users, handling reports, and ensuring fair play through advanced cheat detection review tools.",
-    images: ["https://images.pexels.com/photos/5477776/pexels-photo-5477776.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"],
+    images: ["https://cdn.dribbble.com/userupload/4050238/file/original-0c32e6ed53d1093b822f4743c85fec00.jpg?resize=1600x1200&vertical=center"],
   },
 };
 
